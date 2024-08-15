@@ -1,5 +1,6 @@
+<h1 align="center">Hey there, I'm Sue 👋</h1>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sue_hlr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imLino__) 
 
 # 💻 Tech Stack:
@@ -7,7 +8,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsue&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsue&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsue&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsue&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
